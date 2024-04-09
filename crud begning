@@ -1,0 +1,21 @@
+step1 : driver established
+step2 : connectivity
+step3 : create database 
+step4 : create table
+step5 : Incereted records(Half) (commit) .executemany
+step6 : fetch records (for loop) 
+step6 : update(Commit)
+step7 : delete succesfully
+
+
+
+
+
+
+
+Cursor = The cursor is used to execute SQL queries and fetch results
+
+db_cursor.execute = The execute method is part of the MySQL Connector/Python library, and it is commonly used to execute SQL queries
+
+
+
